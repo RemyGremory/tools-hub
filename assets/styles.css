@@ -533,3 +533,6 @@ body {
 .ad:has(.ad-box:empty) {
   display: none;
 }
+.ad-hidden {
+  display: none;
+}
